@@ -1,0 +1,30 @@
+[[resources-test-add-order]]
+=== Save Order
+
+include::auto-method-path.adoc[]
+
+include::auto-description.adoc[]
+
+==== Path parameters
+
+include::auto-path-parameters.adoc[]
+
+==== Query parameters
+
+include::auto-request-parameters.adoc[]
+
+==== Request fields
+
+include::auto-request-fields.adoc[]
+
+==== Response fields
+
+include::auto-response-fields.adoc[]
+
+==== Example request
+
+include::curl-request.adoc[]
+
+==== Example response
+
+include::http-response.adoc[]

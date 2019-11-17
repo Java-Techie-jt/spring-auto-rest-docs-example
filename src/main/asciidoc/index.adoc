@@ -1,0 +1,9 @@
+= Java Techie Getting Started With Spring REST Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+include::{snippets}/test-add-order/auto-section.adoc[]
+
+include::{snippets}/test-get-orders/auto-section.adoc[]
+
+As you can see the format is very simple, and in fact you always get the same message.
